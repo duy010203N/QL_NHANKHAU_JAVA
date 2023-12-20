@@ -22,7 +22,12 @@
     <h2 style='color: #fff; background: linear-gradient(to right, #4CAF50, #336699); padding: 15px; border-radius: 8px; border: 2px solid #336699; text-align: center;'>QUẢN LÝ NHÂN KHẨU</h2>
 
     <div style='display: flex; justify-content: space-around; background-color: #f1f1f1; padding: 10px;'>
-        <!-- ... (your existing navigation links) ... -->
+    <a href='XemThongTin' style='text-decoration: none; color: #fff; background-color: #3498db; padding: 8px 16px; border-radius: 5px; text-align: center; display: inline-block; margin-right: 10px;'>Hộ Khẩu</a>
+        <a href='NhanKhau' style='text-decoration: none; color: #fff; background-color: #3498db; padding: 8px 16px; border-radius: 5px; text-align: center; display: inline-block; margin-right: 10px;'>Nhân Khẩu</a>
+        <a href='DiaChi' style='text-decoration: none; color: #fff; background-color: #3498db; padding: 8px 16px; border-radius: 5px; text-align: center; display: inline-block; margin-right: 10px;'>Địa Chỉ</a>
+        <a href='quanhevoichuho' style='text-decoration: none; color: #fff; background-color: #3498db; padding: 8px 16px; border-radius: 5px; text-align: center; display: inline-block; margin-right: 10px;'>Quan Hệ Với Chủ Hộ</a>
+        <a href='quatrinhdichuyen' style='text-decoration: none; color: #fff; background-color: #3498db; padding: 8px 16px; border-radius: 5px; text-align: center; display: inline-block; margin-right: 10px;'>Quá Trình Di Chuyển</a>
+        <a href='index.html' style='text-decoration: none; color: #fff; background-color: #3498db; padding: 8px 16px; border-radius: 5px; text-align: center; display: inline-block;'>Đăng xuất</a>
     </div>
 
     <!-- Add the image container with centered and larger image -->
